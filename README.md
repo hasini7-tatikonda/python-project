@@ -60,7 +60,7 @@ Logistic Regression Accuracy: 100%
 
 Random Forest Accuracy: 100%
 
-##Author
+## Author
 
 Ratna Hasini Tatikonda
 B.Tech CCE
